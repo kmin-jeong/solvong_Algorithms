@@ -10,6 +10,6 @@ for k in range(int(input())):
         print(y,end="")
         print("0",end="")
         print(x)
-    else:
+    else:  
         print(y,end="")
         print(x)
